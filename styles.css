@@ -1,0 +1,31 @@
+/* add your CSS here */
+img {
+  width: 300px;
+  object-fit: contain;
+}
+
+span {
+  font-weight: 800;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.all {
+  border: 1px solid #d9d9d9;
+  box-shadow: 10px 7px 3px 0px rgba(186,177,186,1);
+  padding: 10px;
+  width: 320px;
+  background-color: #404040;
+  color: white;
+}
+
+.two {
+  border: 1px solid #d9d9d9;
+  width: 300px;
+  margin-top: 20px;
+  background-color: white;
+  color: #1a1a1a;
+  border-radius: 1%;
+}
